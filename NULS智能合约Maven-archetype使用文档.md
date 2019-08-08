@@ -9,6 +9,7 @@ NULS智能合约Maven-archetype是为开发者定义的智能合约Maven项目�
 ### 新建NULS智能合约Maven工程
 
 1、为了解决Intellij IDEA 通过archetype创建Maven项目缓慢的问题，增加maven运行参数： -DarchetypeCatalog=internal，操作步骤如下图：
+
 ![](https://i.imgur.com/jG8M6dR.png)
 ![](https://i.imgur.com/axexko4.png)
 

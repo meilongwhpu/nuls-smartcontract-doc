@@ -10,6 +10,7 @@ The maven archetype also integrates an offline smart contract client. After the 
 
 1、In order to solve the problem of Intellij IDEA creating a Maven project through archetype slowly, increase the maven run parameters: 
 -DarchetypeCatalog=internal，The operation steps are as follows:
+
 ![](https://i.imgur.com/jG8M6dR.png)
 ![](https://i.imgur.com/axexko4.png)
 
