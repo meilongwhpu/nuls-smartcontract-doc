@@ -6,6 +6,7 @@ The NULS smart contract Maven-archetype is a smart contract Maven project templa
 
 The maven archetype also integrates an offline smart contract client. After the smart contract is packaged through maven, the offline smart contract client is automatically launched, and the developer deploys the smart contract and the contract method call on the client.
 
+
 ### New NULS Smart Contract Maven Project
 
 1、In order to solve the problem of Intellij IDEA creating a Maven project through archetype slowly, increase the maven run parameters: 

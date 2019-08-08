@@ -6,6 +6,7 @@ NULS智能合约Maven-archetype是为开发者定义的智能合约Maven项目�
 
 该maven archetype还集成了离线智能合约客户端，在通过maven打包智能合约之后，会自动启动该离线智能合约客户端，开发者在此客户端上进行智能合约的部署和合约方法调用。
 
+
 ### 新建NULS智能合约Maven工程
 
 1、为了解决Intellij IDEA 通过archetype创建Maven项目缓慢的问题，增加maven运行参数： -DarchetypeCatalog=internal，操作步骤如下图：
