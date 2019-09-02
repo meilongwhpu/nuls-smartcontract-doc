@@ -28,7 +28,15 @@ NULS智能合约Maven-archetype是为开发者定义的智能合约Maven项目�
 
 4、最后生成的maven工程如下图（图3）所示，其中pom.xml文件已经加入NULS智能合约所需的依赖jar，开发者无需修改此文件。
 
-![图3](https://i.imgur.com/nw87nAh.png)
+![](https://i.imgur.com/Vc9zQyU.png)
+
+其中，pom文件中的配置参数说明如下：
+
+![](https://i.imgur.com/WkoKvbV.png)
+
+         第1个参数表示智能合约客户端默认获取合约JAR包的路径；
+         第2个参数表示智能合约客户端启动时使用的端口号 ；
+         第3个参数表示是否Maven打包时是否启动智能合约；
 
 5、开始NULS智能合约的业务代码开发，示例见https://github.com/CCC-NULS/pocm-contract
 
